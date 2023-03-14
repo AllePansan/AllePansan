@@ -4,7 +4,7 @@
 </em></p>
 
 [![Linkedin: Alexandre Panan](https://img.shields.io/badge/-alexandrepansan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandrepansan/)](https://www.linkedin.com/in/alexandrepansan/)
-[![GitHub Alexandre Pansan](https://img.shields.io/github/followers/AllePansan?label=follow&style=social)](https://github.com/AllePansan)
+[![GitHub Alexandre Pansan](https://img.shields.io/github/followers/alexandre-pansan?label=follow&style=social)](https://github.com/alexandre-pansan)
 
 
 ### <img src="https://media.giphy.com/media/5Lmn42BCOy99RaGRP7/giphy.gif" width="50"> Some curiosities about myself
@@ -30,4 +30,4 @@
 
 > Java SpringBoot
 
-![Alexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=AllePansan&show_icons=true&theme=transparent)
+![Alexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandre-pansan&show_icons=true&theme=transparent)
