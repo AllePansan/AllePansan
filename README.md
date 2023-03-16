@@ -8,7 +8,7 @@
 
 [Check out my Portifolio](https://alexandre-pansan.github.io/portifolio/)
 
-### <img src="https://media.giphy.com/media/5Lmn42BCOy99RaGRP7/giphy.gif" width="50"> Some curiosities about myself
+###  Some curiosities about myself<img src="https://media.giphy.com/media/5Lmn42BCOy99RaGRP7/giphy.gif" width="30">
 
 ```json
 {
