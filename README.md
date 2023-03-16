@@ -6,6 +6,7 @@
 [![Linkedin: Alexandre Panan](https://img.shields.io/badge/-alexandrepansan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandrepansan/)](https://www.linkedin.com/in/alexandrepansan/)
 [![GitHub Alexandre Pansan](https://img.shields.io/github/followers/alexandre-pansan?label=follow&style=social)](https://github.com/alexandre-pansan)
 
+[![Check out my Portifolio]](https://alexandre-pansan.github.io/portifolio/)
 
 ### <img src="https://media.giphy.com/media/5Lmn42BCOy99RaGRP7/giphy.gif" width="50"> Some curiosities about myself
 
