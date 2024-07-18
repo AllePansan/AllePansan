@@ -24,8 +24,8 @@
 
 ###  My Most Liked Frameworks <img src="https://media.giphy.com/media/y48SkxHgwDw9mlVrWv/giphy.gif" width="30">
 
-> <img src="https://media2.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=ecf05e47yi7j2dbm90i7ib8fcvi5y6fg0ie59yh51r28gf3i&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50">
-> ReactJS
+> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2x3NDA2aGk5bDVjenRzMHRvdW43bjVkaDdvdG1qMGswNjBlNWozaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XEDIHHp3i8bVoEdxd7/giphy.webp" width="50">
+> Angular
 
 ###  My Recent Learning Adventure <img src="https://media.giphy.com/media/nFMSTMoM01uVeFLv29/giphy.gif" width="30">
 
